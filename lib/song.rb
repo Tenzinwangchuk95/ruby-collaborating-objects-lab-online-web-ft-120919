@@ -27,6 +27,8 @@ class Song
     artist.add_song(self)
   end
 end
+
+
 # describe '.new_by_filename' do
 #     it 'creates a new instance of a song from the file that\'s passed' do
 #       file_name = 'Michael Jackson - Black or White - pop.mp3'
